@@ -754,6 +754,11 @@ html {
     padding-left: 4rem;
     padding-right: 4rem;
   }
+
+  .sm\:text-lg{
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+  }
 }
 
 @media (min-width: 768px){
